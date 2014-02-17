@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="conway/Grid.cs">
+    <Files>
+      <File FileName="conway/conway.cs" Line="5" Column="21" />
+      <File FileName="conwaytests/Test.cs" Line="29" Column="22" />
+      <File FileName="conway/OccupiedCell.cs" Line="19" Column="76" />
+      <File FileName="conway/Grid.cs" Line="66" Column="23" />
+      <File FileName="conwayout/Program.cs" Line="13" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

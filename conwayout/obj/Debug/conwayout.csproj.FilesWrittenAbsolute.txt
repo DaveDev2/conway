@@ -1,0 +1,7 @@
+/Users/dave/Projects/conway/conwayout/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/dave/Projects/conway/conwayout/bin/Debug/conwayout.exe.mdb
+/Users/dave/Projects/conway/conwayout/bin/Debug/conwayout.exe
+/Users/dave/Projects/conway/conwayout/obj/Debug/conwayout.exe
+/Users/dave/Projects/conway/conwayout/obj/Debug/conwayout.exe.mdb
+/Users/dave/Projects/conway/conwayout/bin/Debug/conway.dll
+/Users/dave/Projects/conway/conwayout/bin/Debug/conway.dll.mdb
